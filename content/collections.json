@@ -5,7 +5,9 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "WM SUPLEMENTOS SPORTS",
+      "description": "Você tem a meta, nós temos a solução."
     },
     {
       "type": "document-banner",
