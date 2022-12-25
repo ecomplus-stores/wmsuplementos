@@ -5,11 +5,12 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele 3x sem juros"
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": "Não Achou o que procura? Clique Aqui!",
+    "link": "https://wa.me/message/NKPU7QKMD7OOO1"
   },
   "promo": {
     "show": true,
