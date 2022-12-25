@@ -16,11 +16,11 @@
           "mobile_img": "/img/uploads/banner-07.png"
         },
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner2.webp",
+          "start": "2022-12-25T03:00:00.000Z",
+          "end": "2023-12-25T03:00:00.000Z",
+          "img": "/img/uploads/banner-07.png",
           "alt": "Banner sample two",
-          "mobile_img": "/img/uploads/passion.webp"
+          "mobile_img": "/img/uploads/euronutry.png"
         }
       ]
     },
