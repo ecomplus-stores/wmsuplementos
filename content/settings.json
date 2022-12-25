@@ -3,24 +3,24 @@
   "currency_symbol": "R$",
   "primary_color": "#222831",
   "theme": {
-    "bootswatch": "_",
-    "custom": "_"
+    "bootswatch": "united",
+    "custom": "clean-gray"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#087473",
   "repository": "ecomplus-stores/wmsuplementos",
   "logo": "/img/uploads/logo-cabecalho-sem-fundo2.png",
   "name": "WM SUPLEMENTOS SPORTS",
-  "short_name": "wmsuplementos",
+  "short_name": "WM SUPLEMENTOS SPORTS",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
   "favicon": "/img/uploads/wm-logo-2.png",
-  "icons_font": "_",
+  "icons_font": "font-awesome",
   "country_code": "BR",
   "secondary_color": "#393e46",
   "icon": "/img/uploads/logo-3.png",
   "store_id": 27053,
-  "description": "wmsuplementos",
+  "description": "A sua Loja de suplementos mais perto. Você não precisa vim até nós, nos iremos até você",
   "large_icon": "/img/uploads/logo-3.png"
 }
