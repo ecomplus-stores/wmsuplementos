@@ -20,11 +20,13 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
-    "random": 6,
+    "featured": [
+      "/creatinas?CREATINAS PARA FORÇAS E GANHO"
+    ],
+    "random": 7,
     "full_width": true
   },
-  "desktop_megamenu": false,
+  "desktop_megamenu": true,
   "search_input": true,
   "alphabetical_order_submenu": false,
   "full_width_submenu": false
