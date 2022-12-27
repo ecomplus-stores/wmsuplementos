@@ -1,6 +1,8 @@
 {
-  "sort_categories": [],
-  "alphabetical_order": false,
+  "sort_categories": [
+    "pre-treino"
+  ],
+  "alphabetical_order": true,
   "phone_wpp": true,
   "socials": true
 }
