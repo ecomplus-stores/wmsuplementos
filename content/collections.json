@@ -21,6 +21,10 @@
     {
       "type": "document-description",
       "enabled": true
+    },
+    {
+      "type": "blog",
+      "enabled": true
     }
   ]
 }
