@@ -13,6 +13,16 @@
       "page": 1
     },
     {
+      "type": "offers-timer",
+      "max_hours": 2,
+      "start": "2022-12-28T00:52:32.523Z",
+      "end": "2022-12-28T00:52:32.560Z",
+      "offers": [
+        "62675c4e3da6d37bc20c38dd"
+      ],
+      "notes": "Oferta especial pra você gosta de um desconto especial, aproveite pois vai inspirar assim que você fechar essa pagina."
+    },
+    {
       "type": "banner-slider",
       "autoplay": 9000,
       "full_width": false,
@@ -47,16 +57,6 @@
       "type": "page-title",
       "title": "WM SUPLEMENTOS SPORTS",
       "description": "Uma loja completa de tudo que você precisa, do calçado a roupa fitness."
-    },
-    {
-      "type": "offers-timer",
-      "max_hours": 2,
-      "start": "2022-12-28T00:52:32.523Z",
-      "end": "2022-12-28T00:52:32.560Z",
-      "offers": [
-        "62675c4e3da6d37bc20c38dd"
-      ],
-      "notes": "Oferta especial pra você gosta de um desconto especial, aproveite pois vai inspirar assim que você fechar essa pagina."
     }
   ]
 }
