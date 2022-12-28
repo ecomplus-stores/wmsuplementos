@@ -36,6 +36,25 @@
       "collection_id": "6306a85f73321213f85647f7:collections:TÊNIS CASUAL E ESPORTE:/tenis-casual-e-esporte",
       "sort": "lowest_price",
       "title": "TÊNIS CASUAL OU ESPORTIVOS PARA O SEU TREINO"
+    },
+    {
+      "type": "blog",
+      "enabled": true
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/euronutry.png"
+        }
+      ]
+    },
+    {
+      "type": "brands-carousel",
+      "limit": 24,
+      "offset": 0,
+      "sort": "name",
+      "autoplay": 2000
     }
   ]
 }
