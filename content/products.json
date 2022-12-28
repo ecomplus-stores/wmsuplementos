@@ -17,10 +17,11 @@
       "type": "offers-timer",
       "max_hours": 1,
       "start": "2022-12-28T00:10:35.790Z",
-      "end": "2023-01-01T00:10:35.839Z",
+      "end": "2023-02-01T00:10:35.839Z",
       "offers": [
         "6331e10b73321213f88e269f",
-        "6331e2e373321213f88e2c9e"
+        "6331e2e373321213f88e2c9e",
+        "63ac990d4834634f73222a8b"
       ],
       "notes": "Aproveite! pois a qualquer momento essa oferta sai do ar."
     },
