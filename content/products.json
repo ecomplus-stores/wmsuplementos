@@ -15,7 +15,7 @@
     },
     {
       "type": "offers-timer",
-      "max_hours": 12,
+      "max_hours": 1,
       "start": "2022-12-28T00:10:35.790Z",
       "end": "2023-01-01T00:10:35.839Z",
       "offers": [
