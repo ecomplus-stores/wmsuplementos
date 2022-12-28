@@ -14,10 +14,6 @@
       "title": "TÊNIS CASUAL OU ESPORTIVOS PARA O SEU TREINO"
     },
     {
-      "type": "blog",
-      "enabled": true
-    },
-    {
       "type": "offers-timer",
       "max_hours": 12,
       "start": "2022-12-28T00:10:35.790Z",
@@ -50,6 +46,10 @@
     },
     {
       "type": "product-specifications",
+      "enabled": true
+    },
+    {
+      "type": "blog",
       "enabled": true
     },
     {
