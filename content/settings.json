@@ -4,7 +4,7 @@
   "primary_color": "#222831",
   "theme": {
     "bootswatch": "_",
-    "custom": "niche-game"
+    "custom": "clean-gray"
   },
   "bg_color": "#087473",
   "repository": "ecomplus-stores/wmsuplementos",
@@ -16,7 +16,7 @@
   "mini_logo": "",
   "font_family": "_",
   "favicon": "/img/uploads/wm-logo-2.png",
-  "icons_font": "font-awesome",
+  "icons_font": "bootstrap-icons",
   "country_code": "BR",
   "secondary_color": "#393e46",
   "icon": "/img/uploads/logo-3.png",
