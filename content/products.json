@@ -1,11 +1,6 @@
 {
   "sections": [
     {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "sales"
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -64,6 +59,11 @@
           "img": "/img/uploads/euronutry.png"
         }
       ]
+    },
+    {
+      "type": "dynamic-showcase",
+      "load_more": true,
+      "sort": "sales"
     },
     {
       "type": "brands-carousel",
