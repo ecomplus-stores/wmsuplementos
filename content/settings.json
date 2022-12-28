@@ -1,12 +1,12 @@
 {
   "domain": "https://wmsuplementos.com.br/",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#03989e",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "bg_color": "#087473",
+  "bg_color": "#03989e",
   "repository": "ecomplus-stores/wmsuplementos",
   "logo": "/img/uploads/logo-cabecalho-sem-fundo2.png",
   "name": "WM SUPLEMENTOS SPORTS",
