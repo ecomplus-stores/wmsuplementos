@@ -10,11 +10,17 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/ano-novo.png",
+          "img": "/img/uploads/mes-wandeilson.png",
           "link": "https://wmsuplementos.com.br/",
           "mobile_img": "/img/uploads/ano-novo.png"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1
     },
     {
       "type": "collection-shelf",
