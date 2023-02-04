@@ -19,10 +19,10 @@
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "limit": 13,
+      "limit": 24,
       "page": 1,
       "collection_id": "63b480e64834634f73270c57:collections:ESQUENTA DE CARNAVAL 2023:/esquenta-de-carnaval-2023",
-      "sort": "offers",
+      "sort": "lowest_price",
       "title": "ESQUENTA DE CARNAVAL 2023",
       "link": "https://wmsuplementos.com.br/esquenta-de-carnaval-2023"
     },
