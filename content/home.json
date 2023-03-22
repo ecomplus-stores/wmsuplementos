@@ -19,10 +19,10 @@
     {
       "autoplay": 1000,
       "page": 1,
-      "title": "SEMANA DO CONSUMIDOR",
+      "title": "MÊS DO CONSUMIDOR",
       "shuffle": true,
       "type": "collection-shelf",
-      "link": "https://wmsuplementos.com.br/semana-do-consumidor",
+      "link": "https://wmsuplementos.com.br/mes-do-consumidor",
       "limit": 24,
       "collection_id": "6235d27b2e405e04ffe9e63b:collections:MÊS DO CONSUMIDOR:/mes-do-consumidor",
       "sort": "offers"
