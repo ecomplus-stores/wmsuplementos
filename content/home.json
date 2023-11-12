@@ -16,7 +16,9 @@
         },
         {
           "img": "/img/uploads/november.png",
-          "mobile_img": "/img/uploads/november.png"
+          "mobile_img": "/img/uploads/november.png",
+          "link": "https://wmsuplementos.com.br/black-friday-november",
+          "alt": "black November"
         }
       ]
     },
@@ -85,16 +87,16 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 10000,
-      "full_width": false,
+      "autoplay": 13000,
+      "full_width": true,
       "slides": [
         {
-          "img": "/img/uploads/banner-08.png",
+          "img": "/img/uploads/november-3.png",
           "link": "https://wmsuplementos.com.br/creatinas",
           "alt": "CONFIRA NOSSAS OFERTAS!",
           "start": "2022-11-11T00:42:20.376Z",
-          "end": "2024-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/banner-07.png"
+          "end": "2023-11-30T03:00:00.000Z",
+          "mobile_img": "/img/uploads/november-3.png"
         }
       ]
     },
