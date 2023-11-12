@@ -13,6 +13,10 @@
           "img": "/img/uploads/frete-gratis.png",
           "link": "https://wmsuplementos.com.br/",
           "mobile_img": "/img/uploads/frete-gratis.png"
+        },
+        {
+          "img": "/img/uploads/november.png",
+          "mobile_img": "/img/uploads/november.png"
         }
       ]
     },
