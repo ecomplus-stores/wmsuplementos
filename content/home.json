@@ -10,14 +10,9 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/november.png",
-          "mobile_img": "/img/uploads/november.png",
+          "img": "/img/uploads/natal-wm.png",
+          "mobile_img": "/img/uploads/natal-wm.png",
           "link": "https://wmsuplementos.com.br/black-friday-november"
-        },
-        {
-          "img": "/img/uploads/frete-gratis.png",
-          "link": "https://wmsuplementos.com.br/",
-          "mobile_img": "/img/uploads/frete-gratis.png"
         }
       ]
     },
