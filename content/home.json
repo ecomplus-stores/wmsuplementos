@@ -88,7 +88,7 @@
     },
     {
       "type": "banner-slider",
-      "autoplay": 10000,
+      "autoplay": 11000,
       "full_width": true,
       "slides": [
         {
@@ -102,9 +102,16 @@
         {
           "start": "2023-12-01T18:37:56.498Z",
           "end": "2023-12-30T03:00:00.000Z",
-          "link": "https://wmsuplementos.com.br/natal-antecipado-wm",
+          "link": "https://wmsuplementos.com.br/pre-treino-exodo-sabor-laranja-150g-euronutry",
           "img": "/img/uploads/natal-2.png",
           "mobile_img": "/img/uploads/natal-2.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/natal-3.png",
+          "link": "https://wmsuplementos.com.br/melatonina-60caps-euronutry",
+          "mobile_img": "/img/uploads/natal-3.png"
         }
       ]
     },
