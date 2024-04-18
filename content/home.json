@@ -7,13 +7,9 @@
       "enabled": true
     },
     {
-      "type": "banners-grid",
-      "banners": []
-    },
-    {
       "autoplay": 3000,
       "page": 1,
-      "title": "NATAL CHEGOU MAIS CEDO POR AQUI!",
+      "title": "O QUE VOCÊ PROCURAVA VOCÊ ENCONTRA AQUI!",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
