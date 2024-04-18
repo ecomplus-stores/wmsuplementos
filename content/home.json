@@ -8,18 +8,7 @@
     },
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/natal-wm.png",
-          "mobile_img": "/img/uploads/natal-wm.png",
-          "link": "https://wmsuplementos.com.br/natal-antecipado-wm"
-        },
-        {
-          "img": "/img/uploads/natal-3.png",
-          "link": "https://wmsuplementos.com.br/melatonina-60caps-euronutry",
-          "mobile_img": "/img/uploads/natal-3.png"
-        }
-      ]
+      "banners": []
     },
     {
       "autoplay": 3000,
