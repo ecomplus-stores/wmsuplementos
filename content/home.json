@@ -72,35 +72,6 @@
       "title": "OS MELHORES TÊNIS PARA O SEU JEITO"
     },
     {
-      "type": "banner-slider",
-      "autoplay": 11000,
-      "full_width": true,
-      "slides": [
-        {
-          "img": "/img/uploads/natal-wm.png",
-          "link": "https://wmsuplementos.com.br/creatinas",
-          "alt": "CONFIRA NOSSAS OFERTAS!",
-          "start": "2022-11-11T00:42:20.376Z",
-          "end": "2024-12-31T03:00:00.000Z",
-          "mobile_img": "/img/uploads/natal-wm.png"
-        },
-        {
-          "start": "2023-12-01T18:37:56.498Z",
-          "end": "2023-12-30T03:00:00.000Z",
-          "link": "https://wmsuplementos.com.br/pre-treino-exodo-sabor-laranja-150g-euronutry",
-          "img": "/img/uploads/natal-2.png",
-          "mobile_img": "/img/uploads/natal-2.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/natal-3.png",
-          "link": "https://wmsuplementos.com.br/melatonina-60caps-euronutry",
-          "mobile_img": "/img/uploads/natal-3.png"
-        }
-      ]
-    },
-    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "offers"
