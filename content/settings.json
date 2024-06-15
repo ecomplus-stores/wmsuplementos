@@ -1,7 +1,7 @@
 {
   "domain": "https://wmsuplementos.com.br/",
   "currency_symbol": "R$",
-  "primary_color": "#ea0a16",
+  "primary_color": "#03989e",
   "theme": {
     "bootswatch": "_",
     "custom": "niche-game"
@@ -18,7 +18,7 @@
   "favicon": "/img/uploads/wm-logo-2.png",
   "icons_font": "bootstrap-icons",
   "country_code": "BR",
-  "secondary_color": "#ab0b12",
+  "secondary_color": "#03989e",
   "icon": "/img/uploads/logo-3.png",
   "store_id": 27053,
   "description": "A sua Loja de suplementos mais perto. Você não precisa vim até nós, nos iremos até você.",
