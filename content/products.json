@@ -47,11 +47,7 @@
     },
     {
       "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/euronutry.png"
-        }
-      ]
+      "banners": []
     },
     {
       "type": "dynamic-showcase",
@@ -60,7 +56,7 @@
     },
     {
       "type": "brands-carousel",
-      "limit": 24,
+      "limit": 31,
       "offset": 0,
       "sort": "name",
       "autoplay": 2000
