@@ -47,7 +47,13 @@
     },
     {
       "type": "banners-grid",
-      "banners": []
+      "banners": [
+        {
+          "img": "/img/uploads/arria.jpg",
+          "link": "https://wmsuplementos.com.br/natal-antecipado-wm",
+          "mobile_img": "/img/uploads/arria.jpg"
+        }
+      ]
     },
     {
       "type": "dynamic-showcase",
