@@ -7,6 +7,12 @@
       "enabled": true
     },
     {
+      "type": "responsive-banner",
+      "link": "https://wmsuplementos.com.br/natal-antecipado-wm",
+      "img": "/img/uploads/arria.jpg",
+      "mobile_img": "/img/uploads/arria.jpg"
+    },
+    {
       "autoplay": 3000,
       "page": 1,
       "title": "OS MAIS PROCURADOS!!!",
