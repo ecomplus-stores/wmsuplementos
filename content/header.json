@@ -6,6 +6,7 @@
     "random": 7,
     "full_width": true
   },
+  "menu_all_departments": true,
   "marketing_stripe": {
     "text": "Frete Grátis todo Site nas compras a cima de R$ 160,00",
     "link": "https://wmsuplementos.com.br/",
