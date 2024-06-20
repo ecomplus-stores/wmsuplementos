@@ -14,8 +14,8 @@
     },
     {
       "autoplay": 3000,
-      "page": 1,
-      "title": "OS MAIS PROCURADOS!!!",
+      "page": 2,
+      "title": "ARRAIÁ DE PREÇO BAIXO",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
