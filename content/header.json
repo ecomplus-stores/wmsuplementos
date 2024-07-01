@@ -1,7 +1,7 @@
 {
   "categories_list": {
     "featured": [
-      "/creatinas?CREATINAS PARA FORÇAS E GANHO"
+      "/pre-treino?ENERGIA E PRÉ TREINO"
     ],
     "random": 7,
     "full_width": true
@@ -14,8 +14,8 @@
     "color": "#ffffff"
   },
   "alphabetical_order_submenu": false,
-  "popup": "/img/uploads/arria.jpg",
-  "name_all_departments": "ARRAIÁ DE PREÇOS BAIXOS",
+  "popup": "/img/uploads/alerta.jpg",
+  "name_all_departments": "CATEGORIAS",
   "search_input": true,
   "desktop_megamenu": true,
   "full_width_submenu": false,
