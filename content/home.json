@@ -15,11 +15,11 @@
     {
       "autoplay": 3000,
       "page": 1,
-      "title": "ARRAIÁ DE PREÇO BAIXO",
+      "title": "MÊS DAS FÉRIAS",
       "shuffle": true,
       "headless": false,
       "type": "collection-shelf",
-      "link": "https://wmsuplementos.com.br/natal-antecipado-wm",
+      "link": "https://wmsuplementos.com.br/especial-final-de-ano",
       "limit": 24,
       "collection_id": "655113792cd6b65959a3b7cb:collections:NATAL ANTECIPADO WM:/natal-antecipado-wm",
       "sort": "offers"
