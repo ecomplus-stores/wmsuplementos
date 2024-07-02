@@ -25,6 +25,17 @@
       "sort": "offers"
     },
     {
+      "autoplay": 3000,
+      "page": 1,
+      "title": "DOCES FIT - ZERO AÇUCAR ",
+      "shuffle": false,
+      "type": "collection-shelf",
+      "link": "https://wmsuplementos.com.br/doces-fit---zero-acucar",
+      "limit": 24,
+      "collection_id": "66842ffaf4e6d85ab2c1e107:collections:DOCES FIT - ZERO AÇUCAR:/doces-fit---zero-acucar",
+      "sort": "offers"
+    },
+    {
       "autoplay": 4000,
       "page": 1,
       "title": "ENERGIA E FORÇA!",
@@ -57,17 +68,6 @@
       "sort": "offers",
       "title": "OS MAIS VENDIDOS",
       "autoplay": 2000
-    },
-    {
-      "autoplay": 3000,
-      "page": 1,
-      "title": "DOCES FIT - ZERO AÇUCAR ",
-      "shuffle": false,
-      "type": "collection-shelf",
-      "link": "https://wmsuplementos.com.br/doces-fit---zero-acucar",
-      "limit": 24,
-      "collection_id": "66842ffaf4e6d85ab2c1e107:collections:DOCES FIT - ZERO AÇUCAR:/doces-fit---zero-acucar",
-      "sort": "offers"
     },
     {
       "autoplay": 3000,
