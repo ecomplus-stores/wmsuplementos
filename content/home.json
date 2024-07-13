@@ -98,6 +98,16 @@
       "type": "page-title",
       "title": "WM SUPLEMENTOS SPORTS",
       "description": "Uma loja completa de tudo que você precisa, do calçado a roupa fitness."
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "sort": "offers",
+      "autoplay": 2000,
+      "link": "https://wmsuplementos.com.br/combos",
+      "title": "COMBOS MAROMBAS"
     }
   ]
 }
