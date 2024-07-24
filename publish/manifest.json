@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.f6d9366dc6e91cb1f4d738d51da2d841.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.257d425b01d4aacf11fdd8e90f523ffa.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.e73aa396d96562e6015a63ec4bc3b3c1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.c8777602850e4593e9e9aaee6118d9c2.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.fee65754ee9cd615a956189c17d3b842.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "WM SUPLEMENTOS SPORTS",
+  "short_name": "WM SUPLEMENTOS SPORTS",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A sua Loja de suplementos mais perto. Você não precisa vim até nós, nos iremos até você.",
+  "background_color": "#03989e",
+  "theme_color": "#03989e"
+}
